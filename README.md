@@ -1,44 +1,45 @@
-#Clustering Algorithms and Dimensionality Reduction Techniques
+**Clustering Algorithms and Dimensionality Reduction Techniques**
 
-Repository Overview
+**Repository Overview**
 
 Welcome to the Clustering Algorithms and Dimensionality Reduction Techniques repository! 🎉 This repository serves as a comprehensive exploration of clustering techniques, feature engineering, and dimensionality reduction methods, with practical implementations and comparisons.
 
-What You Will Find Here:
+**What You Will Find Here:**
 
-Clustering Algorithms
+ **Clustering Algorithms**
 
-K-Means Clustering: A simple yet powerful algorithm to group data based on distance from centroids.
+*  K-Means Clustering: A simple yet powerful algorithm to group data based on distance from centroids.
 
-DBSCAN (Density-Based Spatial Clustering of Applications with Noise): An algorithm that identifies dense regions of data and separates them into clusters.
+*  DBSCAN (Density-Based Spatial Clustering of Applications with Noise): An algorithm that identifies dense regions of data and separates them into clusters.
 
-Agglomerative Clustering: A hierarchical clustering approach that builds clusters by merging data points based on similarity.
+* Agglomerative Clustering: A hierarchical clustering approach that builds clusters by merging data points based on similarity.
 
-Dimensionality Reduction Techniques
+  **Dimensionality Reduction Techniques**
 
-PCA (Principal Component Analysis): A linear technique to reduce dimensions while retaining variance.
+*	PCA (Principal Component Analysis): A linear technique to reduce dimensions while retaining variance.
 
-t-SNE (t-Distributed Stochastic Neighbor Embedding): A nonlinear method for visualizing high-dimensional data.
+*	t-SNE (t-Distributed Stochastic Neighbor Embedding): A nonlinear method for visualizing high-dimensional data.
 
-UMAP (Uniform Manifold Approximation and Projection): An advanced algorithm for visualization and dimension reduction with a focus on local structures.
+*	UMAP (Uniform Manifold Approximation and Projection): An advanced algorithm for visualization and dimension reduction with a focus on local structures.
 
-Feature Engineering
+**Feature Engineering**
 
 Techniques to preprocess and transform data for better clustering results, including encoding, scaling, and binning features.
 
-Model Evaluation and Comparison
+
+**Model Evaluation and Comparison**
 
 Evaluation metrics such as:
 
-WCSS (Within-Cluster Sum of Squares)
+* WCSS (Within-Cluster Sum of Squares)
 
-Silhouette Score
+* Silhouette Score
 
-Calinski-Harabasz Index
+* Calinski-Harabasz Index
 
 Side-by-side comparison of clustering algorithms with and without dimensionality reduction.
 
-Goals
+**Goals**
 
 The primary aim of this repository is to:
 
